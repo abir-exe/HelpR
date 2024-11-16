@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "name": "MahMudullah Riad",
+      "country": "Bangladesh",
+      "flag_img": "https://example.com/flags/aus.png",
+      "image": "https://i.ibb.co.com/DCspjh4/download.webp",
+      "player_type": "All-Rounder",
+      "rating": 87,
+      "playing_style": "Right-hand Bat, Right-arm Fast",
+      "price": 90000
+    },
+    {
+      "id": 2,
+      "name": "Virat Kohli",
+      "country": "India",
+      "flag_img": "https://example.com/flags/ind.png",
+      "image": "https://i.ibb.co.com/NSHPhDN/d973a-17150616187538-1920.webp",
+      "player_type": "Bowler",
+      "rating": 82,
+      "playing_style": "Left-hand Bat, Left-arm Spin",
+      "price": 60000
+    },
+    {
+      "id":3,
+      "name": "Hashim Amla",
+      "country": "Pakistan",
+      "flag_img": "https://example.com/flags/eng.png",
+      "image": "https://i.ibb.co.com/p2YFDbY/4baf1ae6d5cf7ac2036fdf8aad55f02e.jpg",
+      "player_type": "Batsman",
+      "rating": 90,
+      "playing_style": "Right-hand Bat",
+      "price": 120000
+    },
+    {
+      "id": 4,
+      "name": "Mohammed Shami",
+      "flag_img": "https://example.com/flags/nz.png",
+      "image": "https://i.ibb.co.com/YTkJy1W/download.jpg",
+      "player_type": "Bowler",
+      "rating": 75,
+      "playing_style": "Right-hand Bat, Right-arm Medium",
+      "price": 55000
+    },
+    {
+      "id": 5,
+      "name": "Tamim iqbal",
+      "country": "Bangladesh",
+      "flag_img": "https://example.com/flags/windies.png",
+      "image": "https://i.ibb.co.com/pzXczYj/1a8773c8116557ae94bab6f3154d4b4c.jpg",
+      "player_type": "All-Rounder",
+      "rating": 88,
+      "playing_style": "Left-hand Bat, Right-arm Off Spin",
+      "price": 95000
+    },
+    {
+      "id": 6,
+      "name": "Tanzib al Sakib",
+      "country": "Bangladesh",
+      "flag_img": "https://example.com/flags/pak.png",
+      "image": "https://i.ibb.co.com/0rYW39F/prothomalo-english-2024-06-802623ce-5473-4dc7-b8e8-34d213053119-Tanzim-Hasan-Sakib.webp",
+      "player_type": "Bowler",
+      "rating": 84,
+      "playing_style": "Left-hand Bat",
+      "price": 80000
+    },
+    {
+      "id": 7,
+      "name": "Tom Carter",
+      "flag_img": "https://example.com/flags/aus.png",
+      "image": "https://i.ibb.co.com/DCspjh4/download.webp",
+      "player_type": "Bowler",
+      "rating": 79,
+      "playing_style": "Right-hand Bat, Left-arm Fast",
+      "price": 70000
+    },
+    {
+      "id": 8,
+      "name": "Rashid Khan",
+      "country": "Afgan",
+      "flag_img": "https://example.com/flags/afg.png",
+      "image": "https://i.ibb.co.com/DCspjh4/download.webp",
+      "player_type": "Batsman",
+      "rating": 92,
+      "playing_style": "Right-hand Bat",
+      "price": 110000
+    },
+    {
+      "id": 9,
+      "name": "Rashid Khan",
+      "flag_img": "https://example.com/flags/afg.png",
+      "image": "https://i.ibb.co.com/DCspjh4/download.webp",
+      "player_type": "All-Rounder",
+      "rating": 92,
+      "playing_style": "Right-hand Bat, Right-arm Leg Spin",
+      "price": 110000
+    },
+    {
+      "id": 10,
+      "name": "Babor Azam",
+      "country": "Pakistan",
+      "flag_img": "https://example.com/flags/afg.png",
+      "image": "https://i.ibb.co.com/ZJ4PRjR/AFP-20240530-34-UE7-A9-v1-High-Res-776146379-1717617996.webpp",
+      "player_type": "All-Rounder",
+      "rating": 92,
+      "playing_style": "Right-hand Bat, Right-arm Leg Spin",
+      "price": 110000
+    },
+    {
+      "id": 11,
+      "name": "Rashid Khan",
+      "country": "Afgan",
+      "flag_img": "https://example.com/flags/afg.png",
+      "image": "https://i.ibb.co.com/1JWFKwc/329634-10.webp",
+      "player_type": "All-Rounder",
+      "rating": 92,
+      "playing_style": "Right-hand Bat, Right-arm Leg Spin",
+      "price": 110000
+    },
+    {
+      "id": 12,
+      "name": "Chris Gayle",
+      "country": "west Indies",
+      "flag_img": "https://example.com/flags/sa.png",
+      "image": "https://i.ibb.co.com/LJRpfDj/chris-gayle-21-04-2022.jpgp",
+      "player_type": "Batsman",
+      "rating": 86,
+      "playing_style": "Right-hand Bat",
+      "price": 95000
+    }
+  ]
+  

@@ -1,0 +1,3 @@
+const getStoredAddToCart = () => {};
+
+const addToStoredCartList = () => {};

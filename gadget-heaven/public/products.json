@@ -1,0 +1,112 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "iPhone 14 Pro",
+      "product_image": "https://i.ibb.co.com/vQYk99t/iphone-14-pro-max-price-revealed-apples-new-premium-device-may-cost-you-this-much.webp",
+      "category": "Phones",
+      "price": 999,
+      "description": "Latest iPhone with A16 chip and advanced camera system.",
+      "specification": ["6.1-inch display", "128GB Storage", "5G"],
+      "availability": "In Stock",
+      "rating": 4.9
+    },
+    {
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "https://i.ibb.co.com/qdkrnY9/download.jpg",
+      "category": "Phones",
+      "price": 899,
+      "description": "Samsung flagship with Snapdragon processor and AMOLED screen.",
+      "specification": ["6.2-inch display", "256GB Storage", "5G"],
+      "availability": "In Stock",
+      "rating": 4.6
+    },
+    {
+      "product_id": 3,
+      "product_title": "Google Pixel 7",
+      "product_image": "https://i.ibb.co.com/vQYk99t/iphone-14-pro-max-price-revealed-apples-new-premium-device-may-cost-you-this-much.webp",
+      "category": "Phones",
+      "price": 799,
+      "description": "Google Pixel phone with the latest Android and amazing camera.",
+      "specification": ["6.1-inch display", "128GB Storage", "5G"],
+      "availability":"In Stock",
+      "rating": 4.7
+    },
+    {
+      "product_id": 4,
+      "product_title": "OnePlus 11",
+      "product_image": "https://i.ibb.co.com/XpvxM5B/download.jpg",
+      "category": "Phones",
+      "price": 729,
+      "description": "High-performance phone with Snapdragon 8 Gen 2 and Warp Charge.",
+      "specification":"Out of Stock",
+      "rating": 4.5
+    },
+    {
+      "product_id": 5,
+      "product_title": "Sony Xperia 5 IV",
+      "product_image": "https://i.ibb.co.com/qC8FPmZ/images.jpg",
+      "category": "Phones",
+      "price": 999,
+      "description": "Sony smartphone with advanced display and camera features.",
+      "specification": ["6.1-inch display", "128GB Storage", "5G"],
+      "availability":"In Stock",
+      "rating": 4.4
+    },
+    {
+      "product_id": 6,
+      "product_title": "Xiaomi Mi 12",
+      "product_image": "https://i.ibb.co.com/vY16fGC/download.jpg",
+      "category": "Phones",
+      "price": 699,
+      "description": "Affordable flagship with great performance and camera.",
+      "specification": ["6.28-inch display", "256GB Storage", "5G"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 7,
+      "product_title": "MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/hmLZdCf/w-1960-h-1274.jpg",
+      "category": "Laptops",
+      "price": 1199,
+      "description": "Lightweight and powerful laptop with Apple M2 chip.",
+      "specification": ["13.6-inch display", "8GB RAM", "256GB SSD"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 8,
+      "product_title": "Dell XPS 15",
+      "product_image": "https://i.ibb.co.com/GCCMQtM/images.jpg",
+      "category": "Laptops",
+      "price": 1599,
+      "description": "High-end Windows laptop with stunning display.",
+      "specification": ["15.6-inch display", "16GB RAM", "512GB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 9,
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co.com/FxCpKWh/Anker-Zolo-Power-Bank-10-K.jpg",
+      "category": "Accessories",
+      "price": 29,
+      "description": "Portable power bank with 10000mAh capacity.",
+      "specification": ["10000mAh", "Compact", "Fast Charging"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 10,
+      "product_title": "Apple  Air Pods",
+      "product_image": "https://i.ibb.co.com/Ct189Cq/309235-0-rc5z8h.webp",
+      "category": "Accessories",
+      "price": 39,
+      "description": "Fast wireless charging for Apple devices.",
+      "specification": ["MagSafe", "Wireless", "Portable"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]
+  
